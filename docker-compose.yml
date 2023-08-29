@@ -15,10 +15,6 @@ services:
     image: postgres:13
     volumes:
       - postgres_data:/var/lib/postgresql/data/
-      # copy the sql script to create tables
-      #- ./sql/create_tables.sql:/docker-entrypoint-initdb.d/create_tables.sql
-      # fill the tables
-      #- ./sql/fill_tables.sql:/docker-entrypoint-initdb.d/fill_tables.sql
     environment:
       - "POSTGRES_HOST_AUTH_METHOD=trust"
   migration:
