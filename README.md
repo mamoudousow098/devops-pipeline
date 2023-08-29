@@ -57,7 +57,7 @@ $ after instatllation you can access the django project [home page](http://127.0
 ***
 
 ###  Contact the developers
-For further information you can directly contact the two developers of the project
+For further information you can directly contact the developers of the project
 * [Mamoudou Mamadou Sow](<MAILTO:smamadoumamoudou@ept.sn>)
 * [Mouhamed Abdoulaye Sadji](<MAILTO:sadjiabdoulaye@ept.sn>)
 * [Aissatou Baldé](<MAILTO:baldeaissatou@ept.sn>)
