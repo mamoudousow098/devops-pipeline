@@ -32,7 +32,9 @@ A **.dockerignore** file is a best practice way to specify certain files and dir
 #### docker-compose.yml
 Our fully-built custom image is now available to run as a container. In order to run the container we need a list of instructions in a file called **docker-compose.yml**
 
-
+### Screenshots
+* screenshot 1
+![home page](./devopsApp/static/img/screenshots/home.png)
 
 ## Technologies
 ***
