@@ -51,7 +51,7 @@ A list of technologies used within the project:
 $ git clone https://github.com/mamoudousow098/sequencing_module.git
 $ cd ../path/to/the/file
 $ docker-compose up -d --build
-$ after instatllation you can access the django project [home page](http://127.0.0.1:8000/)
+$ after instatllation you can access the django project ![home page](http://127.0.0.1:8000/)
 ```
 
 
